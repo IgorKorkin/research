@@ -1,0 +1,1 @@
+"C:\Program Files\VideoLAN\VLC\vlc.exe" --fullscreen --no-video-title --no-playlist-autostart --play-and-pause "K:\Dropbox\_Pubs&Confs\19\MemoryRanger_paper_slides\demos\1\Memory Ranger RU UK Demo Part1 (attemtp 2).mp4"
