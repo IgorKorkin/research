@@ -23,11 +23,11 @@
 
 ### ГОСТ
 
-Коркин И. Ю. DesktopRanger Blocks Keystroke Spying: Hardening Windows Desktop Isolation : доклад на конференции Pass the SALT 2026, Лилль, Франция, 2 июля 2026 г. URL: https://github.com/IgorKorkin/research/tree/main/2026/Pass-the-SALT-2026-conference (дата обращения: ДД.ММ.ГГГГ).
+      Коркин И. Ю. DesktopRanger Blocks Keystroke Spying: Hardening Windows       Desktop Isolation : доклад на конференции Pass the SALT 2026, Лилль,       Франция, 2 июля 2026 г. URL: https://github.com/IgorKorkin/research/tree/      main/2026/Pass-the-SALT-2026-conference (дата обращения: ДД.ММ.ГГГГ).
 
 ### APA 7
 
-Korkin, I. (2026, July 2). *DesktopRanger blocks keystroke spying: Hardening Windows Desktop isolation* [Conference presentation]. Pass the SALT 2026, Lille, France. https://github.com/IgorKorkin/research/tree/main/2026/Pass-the-SALT-2026-conference
+      Korkin, I. (2026, July 2). *DesktopRanger blocks keystroke spying: Hardening       Windows Desktop isolation* [Conference presentation]. Pass the SALT 2026,       Lille, France. https://github.com/IgorKorkin/research/tree/main/2026/      Pass-the-SALT-2026-conference
 
 
 ## Official Conference Promo Posts
