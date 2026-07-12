@@ -1,9 +1,9 @@
 # Pass the SALT 2026 | DesktopRanger
 
 <p align="center">
-  <img src="logo.png" alt="Pass the SALT 2026 logo" width="700">
-  <img src="promotion.png" alt="DesktopRanger at Pass the SALT 2026" width="850">
-  <img src="hello.jpg" alt="Igor Korkin at Pass the SALT 2026" width="700">
+  <img src="logo.png" alt="Pass the SALT 2026 logo" width="400">
+  <img src="promotion.png" alt="DesktopRanger at Pass the SALT 2026" width="400">
+  <img src="hello.jpg" alt="Igor Korkin at Pass the SALT 2026" width="400">
 </p>
 
 ## DesktopRanger Blocks Keystroke Spying: Hardening Windows Desktop Isolation
