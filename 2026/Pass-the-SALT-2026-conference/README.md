@@ -1,0 +1,39 @@
+# Pass the SALT 2026 | DesktopRanger
+
+<p align="center">
+  <img src="logo.png" alt="Pass the SALT 2026 logo" width="700">
+  <img src="promotion.png" alt="DesktopRanger at Pass the SALT 2026" width="850">
+  <img src="hello.jpg" alt="Igor Korkin at Pass the SALT 2026" width="700">
+</p>
+
+## DesktopRanger Blocks Keystroke Spying: Hardening Windows Desktop Isolation
+
+### Talk
+
+* **Speaker:** Igor Korkin
+* **Event:** Pass the SALT 2026
+* **Date:** July 2, 2026
+* **Location:** Université Catholique de Lille, Lille, France
+* **Format:** Conference presentation
+* **Full Recorded Talk:** [▶ Watch on Ubicast](https://passthesalt.ubicast.tv/videos/2026-desktopranger-blocks-keystroke-spying-hardening-windows-desktop-isolation/)
+* **Brief:** The talk demonstrates how privileged user-mode keyloggers can attack isolated Windows desktops and presents **DesktopRanger**—an open-source prototype that hardens Window Station and Desktop access control to protect sensitive keyboard input.
+
+## Official Conference Promo Posts
+
+* [LinkedIn](https://www.linkedin.com/posts/pass-the-salt-conference_pts2026-security-by-design-session-activity-7472606299772497920-Sx0n)
+* [Infosec.Exchange](https://infosec.exchange/@passthesaltcon/116759478471206454)
+* [X / Twitter](https://x.com/passthesaltcon/status/2066842363641618561)
+
+## Open-Source Project
+
+* [DesktopRanger on GitHub](https://github.com/IgorKorkin/DesktopRanger)
+
+## Additional Materials
+
+* Official participation letter ([View PDF](letter_igor_korkin.pdf))
+
+<p align="center">
+  <a href="letter_igor_korkin.pdf">
+    <img src="letter_igor_korkin.png" alt="Official participation letter for Pass the SALT 2026" width="700">
+  </a>
+</p>
