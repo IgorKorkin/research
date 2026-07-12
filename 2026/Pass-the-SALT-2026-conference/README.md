@@ -17,6 +17,7 @@
 * **Date:** July 2, 2026
 * **Location:** Université Catholique de Lille, Lille, France
 * **Format:** Conference presentation
+* **Language:** English
 * **Full Recorded Talk:** [▶ Watch on Ubicast](https://passthesalt.ubicast.tv/videos/2026-desktopranger-blocks-keystroke-spying-hardening-windows-desktop-isolation/)
 * **Brief:** The talk demonstrates how privileged user-mode keyloggers can attack isolated Windows desktops and presents **DesktopRanger**—an open-source prototype that hardens Window Station and Desktop access control to protect sensitive keyboard input.
 
