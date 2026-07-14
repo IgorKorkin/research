@@ -2,7 +2,8 @@
 
 ## Materials
 
-* [Open the complete eForensics issue](./eF_AI_vol.13_no.04.pdf)
+* [View the complete eForensics issue in Google PDF Viewer](https://docs.google.com/gview?embedded=1&url=https%3A%2F%2Fraw.githubusercontent.com%2FIgorKorkin%2Fresearch%2Fmain%2F2026%2FeForensics-Magazine-HAKIN9-2026%2FeF_AI_vol.13_no.04.pdf)
+* [Open or download the PDF directly](./eF_AI_vol.13_no.04.pdf)
 
 ## How to Cite
 
