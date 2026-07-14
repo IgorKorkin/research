@@ -2,8 +2,7 @@
 
 ## Materials
 
-* [View the complete eForensics issue in the embedded PDF viewer](https://igorkorkin.github.io/research/2026/eForensics-Magazine-HAKIN9-2026/viewer.html)
-* [Open or download the PDF directly](./eF_AI_vol.13_no.04.pdf)
+* [Open the complete eForensics issue](./eF_AI_vol.13_no.04.pdf)
 
 ## How to Cite
 
