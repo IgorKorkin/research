@@ -1,16 +1,44 @@
 # eForensics Vol. 13 No. 04 | Weaponizing Intelligence: AI in the Hacker's Arsenal
 
-## Materials
+## Publication
 
-* [Open the complete eForensics issue](./eF_AI_vol.13_no.04.pdf)
+* **Title:** Weaponizing Intelligence: AI in the Hacker's Arsenal
+* **Authors:** Igor Korkin, Yuriy Tumanov, and Oksana Dokuchaeva
+* **Publication:** eForensics
+* **Issue theme:** AI in Forensics: The Age of Autonomy
+* **Volume:** 13
+* **Issue:** 04
+* **Year:** 2026
+* **Pages:** 26–36
+* **Language:** English
+* **ISSN:** 2300-6986
+* [Complete eForensics issue](./eF_AI_vol.13_no.04.pdf)
 
 ## How to Cite
 
-### ГОСТ 
-    Korkin I., Tumanov Y., Dokuchaeva O. Weaponizing Intelligence: AI in the Hacker's Arsenal // eForensics - AI in Forensics: The Age of Autonomy. — 2026. — Vol. 13, no. 04. — P. 26–36. — ISSN 2300-6986.
+### ГОСТ
+
+<!-- markdownlint-disable MD033 -->
+<table>
+<tr>
+<td>
+Korkin I., Tumanov Y., Dokuchaeva O. Weaponizing Intelligence: AI in the Hacker's Arsenal // eForensics. — 2026. — Vol. 13, no. 04. — P. 26–36. — ISSN: 2300-6986.
+</td>
+</tr>
+</table>
+<!-- markdownlint-enable MD033 -->
 
 ### APA
-    Korkin, I., Tumanov, Y., & Dokuchaeva, O. (2026). Weaponizing intelligence: AI in the hacker's arsenal. eForensics - AI in Forensics: The Age of Autonomy13 (4), 26–36.
+
+<!-- markdownlint-disable MD033 -->
+<table>
+<tr>
+<td>
+Korkin, I., Tumanov, Y., & Dokuchaeva, O. (2026). Weaponizing intelligence: AI in the hacker's arsenal. eForensics, 13(4), 26–36.
+</td>
+</tr>
+</table>
+<!-- markdownlint-enable MD033 -->
 
 
 ## Legal and Ethical Note
