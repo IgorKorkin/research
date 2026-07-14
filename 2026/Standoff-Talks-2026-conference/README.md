@@ -58,11 +58,12 @@ Experiments on Windows 11 x64 show that DesktopRanger blocks interception of a t
 
 ### APA 7
 
+
 <!-- markdownlint-disable MD033 -->
 <table>
 <tr>
 <td>
-Korkin, I. (2026, June 18). Secure desktop is not secure: DesktopRanger against high-privilege keyloggers [Conference presentation]. StandOff Talks 2026, Moscow, Russia.
+Korkin, I. (2026, June 18). <em>Secure desktop is not secure: DesktopRanger against high-privilege keyloggers</em> [Conference presentation]. StandOff Talks 2026, Moscow, Russia.
 </td>
 </tr>
 </table>

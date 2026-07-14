@@ -53,7 +53,7 @@ The talk demonstrates how privileged user-mode keyloggers can attack isolated Wi
 <table>
 <tr>
 <td>
-Korkin, I. (2026, July 2). DesktopRanger blocks keystroke spying: Hardening Windows Desktop isolation [Conference presentation]. Pass the SALT 2026, Lille, France.
+Korkin, I. (2026, July 2). <em>DesktopRanger blocks keystroke spying: Hardening Windows Desktop isolation</em> [Conference presentation]. Pass the SALT 2026, Lille, France.
 </td>
 </tr>
 </table>

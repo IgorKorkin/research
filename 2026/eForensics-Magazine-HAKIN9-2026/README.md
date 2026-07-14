@@ -34,7 +34,7 @@ Korkin I., Tumanov Y., Dokuchaeva O. Weaponizing Intelligence: AI in the Hacker'
 <table>
 <tr>
 <td>
-Korkin, I., Tumanov, Y., & Dokuchaeva, O. (2026). Weaponizing intelligence: AI in the hacker's arsenal. eForensics, 13(4), 26–36.
+Korkin, I., Tumanov, Y., & Dokuchaeva, O. (2026). <em>Weaponizing intelligence: AI in the hacker's arsenal</em>. eForensics, 13(4), 26–36.
 </td>
 </tr>
 </table>
