@@ -50,7 +50,7 @@ Experiments on Windows 11 x64 show that DesktopRanger blocks interception of a t
 <table>
 <tr>
 <td>
-Коркин И. Ю. Не такой уж Secure Desktop: как DesktopRanger противостоит привилегированным кейлоггерам : доклад на конференции StandOff Talks 2026, Москва, 18 июня 2026 г. — URL: https://github.com/IgorKorkin/research/tree/main/2026/Standoff-Talks-2026-conference (дата обращения: 12.07.2026).
+Коркин И. Ю. Не такой уж Secure Desktop: как DesktopRanger противостоит привилегированным кейлоггерам : доклад на конференции StandOff Talks 2026, Москва, 18 июня 2026 г.
 </td>
 </tr>
 </table>
@@ -62,7 +62,7 @@ Experiments on Windows 11 x64 show that DesktopRanger blocks interception of a t
 <table>
 <tr>
 <td>
-Korkin, I. (2026, June 18). Secure desktop is not secure: DesktopRanger against high-privilege keyloggers [Conference presentation]. StandOff Talks 2026, Moscow, Russia. https://github.com/IgorKorkin/research/tree/main/2026/Standoff-Talks-2026-conference
+Korkin, I. (2026, June 18). Secure desktop is not secure: DesktopRanger against high-privilege keyloggers [Conference presentation]. StandOff Talks 2026, Moscow, Russia.
 </td>
 </tr>
 </table>
