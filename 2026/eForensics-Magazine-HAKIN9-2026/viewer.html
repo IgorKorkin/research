@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>eForensics Vol. 13 No. 04 — PDF Viewer</title>
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      background: #f3f4f6;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .viewer {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: 100%;
+    }
+
+    .viewer__header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 10px 16px;
+      background: #ffffff;
+      border-bottom: 1px solid #d0d7de;
+    }
+
+    .viewer__title {
+      margin: 0;
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .viewer__link {
+      white-space: nowrap;
+      color: #0969da;
+      text-decoration: none;
+    }
+
+    .viewer__link:hover {
+      text-decoration: underline;
+    }
+
+    .viewer__frame {
+      flex: 1;
+      width: 100%;
+      border: 0;
+    }
+  </style>
+</head>
+<body>
+  <main class="viewer">
+    <header class="viewer__header">
+      <h1 class="viewer__title">eForensics Vol. 13 No. 04 | Weaponizing Intelligence: AI in the Hacker's Arsenal</h1>
+      <a class="viewer__link" href="./eF_AI_vol.13_no.04.pdf">Open PDF directly</a>
+    </header>
+
+    <iframe
+      class="viewer__frame"
+      src="https://docs.google.com/gview?embedded=1&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2FIgorKorkin%2Fresearch%2Fmain%2F2026%2FeForensics-Magazine-HAKIN9-2026%2FeF_AI_vol.13_no.04.pdf"
+      title="eForensics Vol. 13 No. 04 PDF"
+      allowfullscreen>
+    </iframe>
+  </main>
+</body>
+</html>
