@@ -4,7 +4,7 @@
 
 * **Title:** Weaponizing Intelligence: AI in the Hacker's Arsenal
 * **Authors:** Igor Korkin, Yuriy Tumanov, and Oksana Dokuchaeva
-* **Publication:** eForensics
+* **Magazine:** eForensics
 * **Issue theme:** AI in Forensics: The Age of Autonomy
 * **Volume:** 13
 * **Issue:** 04
@@ -28,7 +28,7 @@ Korkin I., Tumanov Y., Dokuchaeva O. Weaponizing Intelligence: AI in the Hacker'
 </table>
 <!-- markdownlint-enable MD033 -->
 
-### APA
+### APA 7
 
 <!-- markdownlint-disable MD033 -->
 <table>
