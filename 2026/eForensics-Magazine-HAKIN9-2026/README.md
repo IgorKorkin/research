@@ -39,10 +39,3 @@ Korkin, I., Tumanov, Y., & Dokuchaeva, O. (2026). Weaponizing intelligence: AI i
 </tr>
 </table>
 <!-- markdownlint-enable MD033 -->
-
-
-## Legal and Ethical Note
-
-The article is intended exclusively for authorized security testing, defensive research, laboratory work, awareness training, and the improvement of security controls.
-
-It does not provide exploit code, malware instructions, evasion playbooks, or operational guidance for unauthorized activity.
