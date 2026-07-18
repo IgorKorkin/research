@@ -3,11 +3,11 @@
 [![Main Page](https://img.shields.io/badge/Main_Page-igorkorkin.github.io-0969DA?logo=githubpages&logoColor=white)](https://igorkorkin.github.io/)
 [![GitHub Pages](https://img.shields.io/github/check-suites/IgorKorkin/research/main?label=GitHub%20Pages&logo=github)](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment)
 
-## Монографии
+## Издания
 
-| Год | Название | Издательство |
-| :---: | --- | --- |
-| 2026 | [Защита ядра операционных систем в условиях противодействия](https://igorkorkin.github.io/monograph/) | ИНФРА-М, Москва, Россия |
+| Год | Название | Тип | Издательство |
+| :---: | --- | :---: | --- |
+| 2026 | [Защита ядра операционных систем в условиях противодействия](https://igorkorkin.github.io/monograph/) | Монография | ИНФРА-М, Москва, Россия |
 
 ## Публикации, доклады и презентации
 
