@@ -1,5 +1,6 @@
 # Результаты исследований
 
+[![Main Page](https://img.shields.io/badge/Main_Page-igorkorkin.github.io-0969DA?logo=githubpages&logoColor=white)](https://igorkorkin.github.io/)
 [![GitHub Pages](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment)
 
 ## Монографии
