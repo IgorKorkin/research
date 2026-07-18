@@ -1,5 +1,7 @@
 # Результаты исследований
 
+[![GitHub Pages](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment)
+
 ## Монографии
 
 | Год | Название | Издательство |
