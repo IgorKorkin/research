@@ -58,7 +58,6 @@ Experiments on Windows 11 x64 show that DesktopRanger blocks interception of a t
 
 ### APA 7
 
-
 <!-- markdownlint-disable MD033 -->
 <table>
 <tr>
