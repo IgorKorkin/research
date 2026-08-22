@@ -24,10 +24,21 @@
 * **Venue:** GOELRO
 * **Location:** Moscow, Russia
 * **Language:** Russian
-* [Official program — English](https://offzone.moscow/eng/program/beyond-secure-desktop-abusing-and-hardening-windows-desktop-isolation/)
-* [Official program — Russian](https://offzone.moscow/program/beyond-secure-desktop-abusing-and-hardening-windows-desktop-isolation/)
 * [OFFZONE 2026](https://offzone.moscow/eng/)
 * [DesktopRanger on GitHub](https://github.com/IgorKorkin/DesktopRanger)
+
+## Official Materials
+
+* [Official talk page — English](https://offzone.moscow/eng/program/beyond-secure-desktop-abusing-and-hardening-windows-desktop-isolation/)
+* [Официальная страница доклада — Русский](https://offzone.moscow/program/beyond-secure-desktop-abusing-and-hardening-windows-desktop-isolation/)
+
+### Official Abstract — English
+
+Running sensitive applications on a separate Windows Desktop is often treated as a reliable security boundary. The talk demonstrates practical attacks in which keyloggers abuse Windows Desktop isolation to intercept user keystrokes. It then introduces DesktopRanger, an open-source project that creates a hardened desktop through restrictive access control.
+
+### Официальное описание — Русский
+
+Запуск приложений, работающих с конфиденциальными данными, на отдельном Windows Desktop часто рассматривается как надежное решение по безопасности. В докладе демонстрируются практические атаки, в которых кейлоггеры используют недостатки Windows Desktop для перехвата нажатий клавиш. Затем представлен DesktopRanger — открытый проект, создающий защищенный рабочий стол за счет управления доступом к объектам Windows Desktop.
 
 ## Abstract
 
