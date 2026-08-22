@@ -1,6 +1,11 @@
 {
   "config": {
+    // MD013: Disable the 80-character line-length limit.
+    // Long titles, URLs, citations, and abstracts are common in this repository.
     "MD013": false,
+
+    // MD047: Require exactly one trailing newline at the end of every Markdown file.
+    // This keeps files POSIX-friendly and avoids noisy end-of-file diffs.
     "MD047": true
   }
 }
