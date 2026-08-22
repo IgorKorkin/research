@@ -1,13 +1,10 @@
 # OFFZONE 2026 | Beyond Secure Desktop: Abusing and Hardening Windows Desktop Isolation
 
 <!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://offzone.moscow/eng/">
-    <img src="https://cfp.offzone.moscow/media/offzone2026/img/logo-offzone_D6iwB71_3_JocYe0E.png" alt="OFFZONE 2026 logo" width="500">
-  </a>
+<p align="center">  
   <br>
   <a href="https://offzone.moscow/eng/program/beyond-secure-desktop-abusing-and-hardening-windows-desktop-isolation/">
-    <img src="https://offzone.moscow/upload/iblock/d51/wwjcqahqia4b1i26dkjudpfrfchw7oc8/sp-2026-igor-korkin.jpg" alt="Igor Korkin — OFFZONE 2026 speaker" width="400">
+    <img src="offzone_korkin_main_track.jfif" alt="Igor Korkin — OFFZONE 2026 speaker" width="400">
   </a>
 </p>
 <!-- markdownlint-enable MD033 -->
@@ -32,7 +29,6 @@
 * [Official program — Russian](https://offzone.moscow/program/beyond-secure-desktop-abusing-and-hardening-windows-desktop-isolation/)
 * [OFFZONE 2026](https://offzone.moscow/eng/)
 * [DesktopRanger on GitHub](https://github.com/IgorKorkin/DesktopRanger)
-* [DesktopRangerLab on GitHub](https://github.com/IgorKorkin/DesktopRangerLab)
 
 ## Abstract
 
