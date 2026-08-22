@@ -13,7 +13,7 @@
 * **Язык:** русский
 * **ISSN:** 2305-994X
 * [Сборник научных трудов](./mitsobi-2026-conference.pdf)
-* [TODO: Карточка публикации в eLIBRARY.RU ](https://elibrary.ru/item.asp?id=88800603)
+* [TODO: Карточка публикации в eLIBRARY.RU](https://elibrary.ru/item.asp?id=88800603)
 
 ## Как цитировать
 

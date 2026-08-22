@@ -1,0 +1,43 @@
+name: Research Quality
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  markdownlint:
+    name: Markdown lint
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Check Markdown
+        uses: DavidAnson/markdownlint-cli2-action@main
+        with:
+          globs: |
+            **/*.md
+
+  links:
+    name: Check links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --root-dir "$(pwd)"
+            --verbose
+            --no-progress
+            './**/*.md'
+            './**/*.html'
+            './**/*.rst'
+          fail: true
