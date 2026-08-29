@@ -16,6 +16,6 @@
 | 2025 | [О подходе к защите приложений класса «менеджер паролей» от перехвата клавиатурного ввода](2025/KIB-MEPhI-2025-conference/README.md) | Тезисы доклада | КИБ-2025, МИФИ, Москва, Россия |
 | 2026 | [Метод управления правами доступа к объектам рабочего стола Windows для защиты пользовательского ввода](2026/mitsobi-2026-conference/README.md) | Тезисы доклада | МИТСОБИ-2026, Санкт-Петербург, Россия |
 | 2026 | [DesktopRanger Blocks Keystroke Spying: Hardening Windows Desktop Isolation](2026/Pass-the-SALT-2026-conference/README.md) | Доклад | Pass the SALT 2026, Лилль, Франция |
-| 2026 | [Secure Desktop is not Secure: DesktopRanger Against High-Privilege Keyloggers](2026/Standoff-Talks-2026-conference/README.md) | Доклад | StandOff Talks 2026, Москва, Россия |
+| 2026 | [Secure Desktop Is Not Secure: DesktopRanger Against High-Privilege Keyloggers](2026/Standoff-Talks-2026-conference/README.md) | Доклад | StandOff Talks 2026, Москва, Россия |
 | 2026 | [Weaponizing Intelligence: AI in the Hacker's Arsenal](2026/eForensics-Magazine-HAKIN9-2026/README.md) | Статья | eForensics, Варшава, Польша |
 | 2026 | [Beyond Secure Desktop: Abusing and Hardening Windows Desktop Isolation](2026/OFFZONE-2026-conference/README.md) | Доклад | OFFZONE 2026, Москва, Россия |
