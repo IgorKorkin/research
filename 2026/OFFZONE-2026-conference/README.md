@@ -26,6 +26,7 @@
 * **Language:** Russian
 * [OFFZONE 2026](https://offzone.moscow/eng/)
 * [DesktopRanger on GitHub](https://github.com/IgorKorkin/DesktopRanger)
+* [Letter of Gratitude from BI.ZONE (OFFZONE)](./OFFZONE-2026-conference-Letter-of-Gratitude.pdf)
 
 ## Official Materials / Официальные материалы
 
@@ -100,4 +101,12 @@ Korkin, I. (2026, August 21). <em>Beyond Secure Desktop: Abusing and hardening W
 </td>
 </tr>
 </table>
+<!-- markdownlint-enable MD033 -->
+
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="OFFZONE-2026-conference-Letter-of-Gratitude.pdf">
+    <img src="OFFZONE-2026-conference-Letter-of-Gratitude1.png" alt="OFFZONE2026 Letter of Gratitude" width="700">
+  </a>
+</p>
 <!-- markdownlint-enable MD033 -->
