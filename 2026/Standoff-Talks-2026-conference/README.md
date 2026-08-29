@@ -1,4 +1,4 @@
-# StandOff Talks 2026 | Secure Desktop is not Secure
+# StandOff Talks 2026 | Secure Desktop Is Not Secure: DesktopRanger Against High-Privilege Keyloggers
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
@@ -10,9 +10,9 @@
 ## Talk
 
 * **Titles:**
-  * **English:** Secure Desktop is not Secure: DesktopRanger Against High-Privilege Keyloggers
-  * **Russian:** Не такой уж Secure Desktop: как DesktopRanger противостоит привилегированным кейлоггерам
-  * **Alternative Russian title:** Безопасный рабочий стол небезопасен: DesktopRanger против кейлоггеров с высокими привилегиями
+  * **English:** Secure Desktop Is Not Secure: DesktopRanger Against High-Privilege Keyloggers
+  * **Russian — conference program:** Безопасный рабочий стол небезопасен: DesktopRanger против кейлоггеров с высокими привилегиями
+  * **Russian — official recording:** Не такой уж Secure Desktop: как DesktopRanger противостоит привилегированным кейлоггерам
 * **Speaker:** Igor Korkin
 * **Event:** StandOff Talks 2026
 * **Type:** Conference presentation
@@ -28,7 +28,7 @@
 
 ## Abstract
 
-Windows Desktop isolation moves sensitive keyboard input away from the Default desktop and protects it from basic keyloggers. However, privileged user-mode processes can enumerate desktops, open them by name, switch to a target desktop, or launch a helper process inside it.
+Windows Desktop isolation moves sensitive keyboard input away from the `Default` desktop and protects it from basic keyloggers. However, privileged user-mode processes can enumerate desktops, open them by name, switch to a target desktop, or launch a helper process inside it.
 
 The talk reviews attacks based on `SetWindowsHookEx`, `GetAsyncKeyState`, `Raw Input`, `DirectInput`, Desktop-object enumeration, and cross-desktop process relaunch. It also presents DesktopRanger, an open-source prototype that strengthens Window Station and Desktop access control through a restrictive security descriptor, desktop-enumeration restrictions, and controlled trusted-application launch.
 
@@ -36,9 +36,9 @@ Experiments on Windows 11 x64 show that DesktopRanger blocks interception of a t
 
 ## Описание доклада
 
-Механизм Windows Desktop позволяет перенести ввод конфиденциальных данных с Default Desktop на отдельный рабочий стол, однако защищает его преимущественно от базовых кейлоггеров. Привилегированные процессы могут перечислять рабочие столы, открывать их по имени, переключаться на целевой рабочий стол или запускать на нём собственный процесс.
+Механизм Windows Desktop позволяет перенести ввод конфиденциальных данных с рабочего стола `Default` на отдельный рабочий стол, однако защищает его преимущественно от базовых кейлоггеров. Привилегированные процессы могут перечислять рабочие столы, открывать их по имени, переключаться на целевой рабочий стол или запускать на нём собственный процесс.
 
-В докладе рассматриваются атаки с применением `SetWindowsHookEx`, `GetAsyncKeyState`, `Raw Input`, `DirectInput`, перечисления Desktop-объектов и перезапуска процесса на других рабочих столах. Представлен DesktopRanger — open-source прототип, усиливающий разграничение доступа к объектам Window Station и Desktop с помощью ограничительного дескриптора безопасности, запрета перечисления защищённых рабочих столов и контролируемого запуска доверенных приложений.
+В докладе рассматриваются атаки с применением `SetWindowsHookEx`, `GetAsyncKeyState`, `Raw Input`, `DirectInput`, перечисления Desktop-объектов и перезапуска процесса на других рабочих столах. Представлен DesktopRanger — прототип с открытым исходным кодом, усиливающий разграничение доступа к объектам Window Station и Desktop с помощью ограничительного дескриптора безопасности, запрета перечисления защищённых рабочих столов и контролируемого запуска доверенных приложений.
 
 Эксперименты в Windows 11 x64 показали, что DesktopRanger блокирует перехват тестовой парольной фразы всеми реализованными техниками при запуске кейлоггера от имени пользователя, администратора и `NT AUTHORITY\SYSTEM`.
 
@@ -50,7 +50,7 @@ Experiments on Windows 11 x64 show that DesktopRanger blocks interception of a t
 <table>
 <tr>
 <td>
-Коркин И. Ю. Не такой уж Secure Desktop: как DesktopRanger противостоит привилегированным кейлоггерам : доклад на конференции StandOff Talks 2026, Москва, 18 июня 2026 г.
+Коркин И. Ю. Безопасный рабочий стол небезопасен: DesktopRanger против кейлоггеров с высокими привилегиями : доклад на конференции StandOff Talks 2026, Москва, 18 июня 2026 г.
 </td>
 </tr>
 </table>

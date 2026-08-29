@@ -47,7 +47,7 @@ Running applications that handle sensitive data on a separate Windows Desktop is
 
 ## Аннотация
 
-Запуск приложений, работающих с конфиденциальными данными, на отдельном Windows Desktop часто рассматривается как надежная граница безопасности. В докладе демонстрируются практические атаки, в которых кейлоггеры используют слабые стороны изоляции Windows Desktop для перехвата пользовательского ввода. Затем представлен DesktopRanger — open-source проект, создающий защищенный рабочий стол за счет строгого управления доступом к объектам Window Station и Desktop в Windows.
+Запуск приложений, работающих с конфиденциальными данными, на отдельном Windows Desktop часто рассматривается как надежная граница безопасности. В докладе демонстрируются практические атаки, в которых кейлоггеры используют слабые стороны изоляции Windows Desktop для перехвата пользовательского ввода. Затем представлен DesktopRanger — проект с открытым исходным кодом, создающий защищенный рабочий стол за счет строгого управления доступом к объектам Window Station и Desktop в Windows.
 
 ## Extended Summary
 
@@ -55,7 +55,7 @@ Windows Desktop isolation can separate a sensitive application's user interface 
 
 The talk examines practical keyboard-input interception techniques including `SetWindowsHookEx`, `GetAsyncKeyState`, Raw Input, and DirectInput, and discusses how desktop enumeration, object access rights, and process placement affect the attack surface. The analysis also considers real-world secure-desktop implementations and the difference between hiding a desktop, restricting selected capabilities, and enforcing a restrictive access policy on the desktop object itself.
 
-DesktopRanger demonstrates a sandbox-driven approach to protecting sensitive keyboard input without kernel hooks or continuous interception. The prototype creates a dedicated desktop, restricts access to the Window Station and Desktop objects, temporarily grants only the permissions required to launch a trusted process, and then returns the desktop to its protected state. Experiments on Windows 11 x64 evaluate attacks from regular-user, administrator, and `NT AUTHORITY\\SYSTEM` contexts.
+DesktopRanger demonstrates a sandbox-driven approach to protecting sensitive keyboard input without kernel hooks or continuous interception. The prototype creates a dedicated desktop, restricts access to the Window Station and Desktop objects, temporarily grants only the permissions required to launch a trusted process, and then returns the desktop to its protected state. Experiments on Windows 11 x64 evaluate attacks from regular-user, administrator, and `NT AUTHORITY\SYSTEM` contexts.
 
 The main conclusion is that a separate Windows Desktop should not be treated as a security boundary by itself: the effective boundary is the access policy applied to the underlying Windows objects.
 
@@ -65,7 +65,7 @@ The main conclusion is that a separate Windows Desktop should not be treated as 
 
 В докладе рассматриваются практические техники перехвата клавиатурного ввода с использованием `SetWindowsHookEx`, `GetAsyncKeyState`, Raw Input и DirectInput, а также влияние перечисления рабочих столов, прав доступа к объектам и размещения процессов на поверхность атаки. Отдельно анализируются реальные реализации secure desktop и различие между сокрытием рабочего стола, ограничением отдельных возможностей и строгой политикой доступа к самому объекту Desktop.
 
-DesktopRanger демонстрирует sandbox-driven подход к защите конфиденциального клавиатурного ввода без драйверов ядра и постоянного перехвата событий. Прототип создает отдельный рабочий стол, ограничивает доступ к объектам Window Station и Desktop, временно предоставляет только права, необходимые для запуска доверенного процесса, после чего возвращает рабочий стол в защищенное состояние. Эксперименты в Windows 11 x64 рассматривают атаки из контекста обычного пользователя, администратора и `NT AUTHORITY\\SYSTEM`.
+DesktopRanger демонстрирует sandbox-driven подход к защите конфиденциального клавиатурного ввода без драйверов ядра и постоянного перехвата событий. Прототип создает отдельный рабочий стол, ограничивает доступ к объектам Window Station и Desktop, временно предоставляет только права, необходимые для запуска доверенного процесса, после чего возвращает рабочий стол в защищенное состояние. Эксперименты в Windows 11 x64 рассматривают атаки из контекста обычного пользователя, администратора и `NT AUTHORITY\SYSTEM`.
 
 Ключевой вывод состоит в том, что отдельный Windows Desktop сам по себе не должен рассматриваться как надежная граница безопасности: эффективной границей становится политика доступа, примененная к соответствующим объектам Windows.
 
