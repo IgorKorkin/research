@@ -3,7 +3,9 @@
 <!-- markdownlint-disable MD033 -->
 <p align="center">  
   <a href="https://offzone.moscow/eng/program/beyond-secure-desktop-abusing-and-hardening-windows-desktop-isolation/">
-    <img src="offzone_korkin_main_track.jfif" alt="Igor Korkin — OFFZONE 2026 speaker" width="400">
+    <img src="offzone-2026-korkin-01.jpg" alt="Igor Korkin — OFFZONE 2026 speaker" width="400">
+    <img src="offzone-2026-korkin-02.jpg" alt="Igor Korkin — OFFZONE 2026 speaker" width="400">
+    <img src="offzone-2026-korkin-03.jpg" alt="Igor Korkin — OFFZONE 2026 speaker" width="400">
   </a>
 </p>
 <!-- markdownlint-enable MD033 -->
