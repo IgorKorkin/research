@@ -1,7 +1,8 @@
 # Результаты исследований
 
 [![Main Page](https://img.shields.io/badge/Main_Page-igorkorkin.github.io-0969DA?logo=githubpages&logoColor=white)](https://igorkorkin.github.io/)
-[![GitHub Pages](https://img.shields.io/github/check-suites/IgorKorkin/research/main?label=GitHub%20Pages&logo=github)](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment)
+[![Research Archive](https://img.shields.io/badge/Research_Archive-igorkorkin.github.io%2Fresearch-2E7D32?logo=openaccess&logoColor=white)](https://igorkorkin.github.io/research/)
+[![GitHub Pages](https://img.shields.io/github/check-suites/IgorKorkin/research/main?label=GitHub%20Pages&logo=githubactions)](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment)
 
 ## Издания
 
