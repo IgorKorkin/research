@@ -14,9 +14,9 @@
 
 | Год | Название работы | Тип | Площадка |
 | :---: | --- | :---: | --- |
-| 2025 | [О подходе к защите приложений класса «менеджер паролей» от перехвата клавиатурного ввода](2025/[2025]-[Conference]-[KIB-MEPhI]-[Academic]/README.md) | Тезисы доклада | КИБ-2025, МИФИ, Москва, Россия |
-| 2026 | [Метод управления правами доступа к объектам рабочего стола Windows для защиты пользовательского ввода](2026/[2026]-[Conference]-[MITSOBI]-[Academic]/README.md) | Тезисы доклада | МИТСОБИ-2026, Санкт-Петербург, Россия |
-| 2026 | [DesktopRanger Blocks Keystroke Spying: Hardening Windows Desktop Isolation](2026/[2026]-[Conference]-[Pass-the-SALT]/README.md) | Доклад | Pass the SALT 2026, Лилль, Франция |
-| 2026 | [Secure Desktop Is Not Secure: DesktopRanger Against High-Privilege Keyloggers](2026/[2026]-[Conference]-[Standoff-Talks]/README.md) | Доклад | StandOff Talks 2026, Москва, Россия |
-| 2026 | [Weaponizing Intelligence: AI in the Hacker's Arsenal](2026/[2026]-[Paper]-[eForensics-HAKIN9]/README.md) | Статья | eForensics, Варшава, Польша |
-| 2026 | [Beyond Secure Desktop: Abusing and Hardening Windows Desktop Isolation](2026/[2026]-[Conference]-[OFFZONE]/README.md) | Доклад | OFFZONE 2026, Москва, Россия |
+| 2025 | [О подходе к защите приложений класса «менеджер паролей» от перехвата клавиатурного ввода](2025/2025--Conference--KIB-MEPhI--Academic/README.md) | Тезисы доклада | КИБ-2025, МИФИ, Москва, Россия |
+| 2026 | [Метод управления правами доступа к объектам рабочего стола Windows для защиты пользовательского ввода](2026/2026--Conference--MITSOBI--Academic/README.md) | Тезисы доклада | МИТСОБИ-2026, Санкт-Петербург, Россия |
+| 2026 | [DesktopRanger Blocks Keystroke Spying: Hardening Windows Desktop Isolation](2026/2026--Conference--Pass-the-SALT/README.md) | Доклад | Pass the SALT 2026, Лилль, Франция |
+| 2026 | [Secure Desktop Is Not Secure: DesktopRanger Against High-Privilege Keyloggers](2026/2026--Conference--Standoff-Talks/README.md) | Доклад | StandOff Talks 2026, Москва, Россия |
+| 2026 | [Weaponizing Intelligence: AI in the Hacker's Arsenal](2026/2026--Paper--eForensics-HAKIN9/README.md) | Статья | eForensics, Варшава, Польша |
+| 2026 | [Beyond Secure Desktop: Abusing and Hardening Windows Desktop Isolation](2026/2026--Conference--OFFZONE/README.md) | Доклад | OFFZONE 2026, Москва, Россия |
