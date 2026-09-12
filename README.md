@@ -6,7 +6,7 @@
 
 ## Исследовательская линия
 
-Основная линия исследований — **анализ и усиление границ безопасности операционных систем в условиях активного противодействия атакующего**.
+Memory Forensics & Rootkit Detection → Hypervisor Detection → Kernel Protection → Attacks on Telemetry → User Interaction Protection.
 
 | Период | Направление и ключевой результат | Основные материалы |
 | :---: | --- | --- |
@@ -15,8 +15,6 @@
 | 2016–2022 | **MemoryRanger — Hypervisor-based Kernel Protection**<br>Развитие гипервизорных механизмов защиты ОС с использованием технологий VT-x/EPT: HyperPlatform, запуск драйверов в изолированных анклавах и исследование новых атак на объекты ядра ОС | • [GitHub](https://github.com/IgorKorkin/MemoryRanger)<br>• [Black Hat Europe 2018](https://blackhat.com/archive/europe/2018/speakers/Igor-Korkin.html) |
 | 2019–2022 | **Security Telemetry Under Attack**<br>Разработка и исследование новых атак на ETW/WMI для ослепления EDR/SIEM и методов повышения устойчивости средств мониторинга | • [Black Hat Europe 2021 — ETW](https://blackhat.com/archive/europe/2021/briefings/schedule/speakers.html#igor-korkin-34812)<br>• [Black Hat USA 2022 — WMI](https://blackhat.com/archive/usa/2022/briefings/schedule/speakers.html#igor-korkin-34812)<br>• [Microsoft Defender Will Be Defended: MemoryRanger Prevents Blinding Windows AV](https://commons.erau.edu/adfsl/2022/presentations/7/) |
 | 2025–2026 | **DesktopRanger — Windows Desktop Isolation**<br>Усиление Windows Desktop isolation и защита пользовательского ввода | • [GitHub](https://github.com/IgorKorkin/DesktopRanger)<br>• [OFFZONE 2026](https://offzone.moscow/eng/program/beyond-secure-desktop-abusing-and-hardening-windows-desktop-isolation/) |
-
-Исследовательская линия: Memory Forensics → Hypervisor Detection → Kernel Protection → Trusted Telemetry → User Interaction Protection.
 
 Полная хронология более ранних публикаций, докладов и исследовательских проектов доступна в [исследовательском архиве](https://sites.google.com/site/igorkorkin).
 
