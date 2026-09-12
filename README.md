@@ -4,13 +4,29 @@
 [![Research Archive](https://img.shields.io/badge/Research_Archive-igorkorkin.github.io%2Fresearch-2E7D32?logo=openaccess&logoColor=white)](https://igorkorkin.github.io/research/)
 [![GitHub Pages](https://img.shields.io/github/check-suites/IgorKorkin/research/main?label=GitHub%20Pages&logo=githubactions)](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment)
 
-## Издания
+## Эволюция исследований
 
-| Год | Название | Тип | Издательство |
-| :---: | --- | :---: | --- |
-| 2026 | [Защита ядра операционных систем в условиях противодействия](https://igorkorkin.github.io/monograph/) | Монография | ИНФРА-М, Москва, Россия |
+Основная линия исследований — **анализ и усиление границ безопасности операционных систем в условиях активного противодействия атакующего**.
 
-## Публикации, доклады и презентации
+| Период | Направление | Ключевой результат |
+| :---: | --- | --- |
+| 2009–2015 | **Memory Forensics for Rootkit Detection** | Выявление kernel-mode rootkits и скрытых объектов ОС на основе анализа оперативной памяти |
+| 2010–2014 | **Stealthy Hypervisor Detection** | Обнаружение скрытых гипервизоров, включая противодействие time cheating и нестабильности временных измерений |
+| 2016–2022 | **[MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)** | Развитие гипервизорных механизмов защиты на базе VT-x/EPT: от ранних экспериментов с HyperPlatform до изоляции драйверов, памяти и объектов ядра Windows |
+| 2019–2022 | **Security Telemetry Under Attack** | Анализ устойчивости ETW/WMI и механизмов наблюдения EDR/SIEM к активному противодействию |
+| 2025–2026 | **[DesktopRanger](https://github.com/IgorKorkin/DesktopRanger)** | Усиление Windows Desktop isolation и защита пользовательского ввода |
+
+**Memory Forensics → Hypervisor Detection → Kernel Protection → Trusted Telemetry → User Interaction Protection**
+
+Полная хронология более ранних публикаций, докладов и исследовательских проектов доступна в [исследовательском архиве](https://sites.google.com/site/igorkorkin).
+
+## Монография
+
+| Год | Издание | Роль |
+| :---: | --- | --- |
+| 2026 | [Защита ядра операционных систем в условиях противодействия](https://igorkorkin.github.io/monograph/) | Систематизация исследований по защите ядра ОС, памяти, драйверов и механизмов изоляции от активного воздействия атакующего |
+
+## Актуальные исследования и выступления
 
 | Год | Название работы | Тип | Площадка |
 | :---: | --- | :---: | --- |
