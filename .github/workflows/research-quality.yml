@@ -37,7 +37,6 @@ jobs:
             --root-dir "$(pwd)"
             --verbose
             --no-progress
-            --exclude '^https://(www\.)?blackhat\.com/.*$'
             './**/*.md'
             './**/*.html'
             './**/*.rst'
