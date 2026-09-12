@@ -16,7 +16,7 @@
 | 2019–2022 | **Security Telemetry Under Attack** | Анализ устойчивости ETW/WMI и механизмов наблюдения EDR/SIEM к активному противодействию |
 | 2025–2026 | **[DesktopRanger](https://github.com/IgorKorkin/DesktopRanger)** | Усиление Windows Desktop isolation и защита пользовательского ввода |
 
-**Memory Forensics → Hypervisor Detection → Kernel Protection → Trusted Telemetry → User Interaction Protection**
+Исследовательская линия: Memory Forensics → Hypervisor Detection → Kernel Protection → Trusted Telemetry → User Interaction Protection.
 
 Полная хронология более ранних публикаций, докладов и исследовательских проектов доступна в [исследовательском архиве](https://sites.google.com/site/igorkorkin).
 
