@@ -6,7 +6,7 @@
 
 ## Исследовательская линия
 
-Rootkit Detection & Memory Forensics → Hypervisor Detection → Hypervisor-based Kernel Protection → Attacks on Telemetry → User Interaction Protection.
+Rootkit Detection & Memory Forensics → Hypervisor Detection → Hypervisor-based Kernel Protection → Attacks on Telemetry → Desktop Protection.
 
 | Период | Направление и ключевой результат | Основные материалы |
 | :---: | --- | --- |
