@@ -4,7 +4,7 @@
 [![Research Archive](https://img.shields.io/badge/Research_Archive-igorkorkin.github.io%2Fresearch-2E7D32?logo=openaccess&logoColor=white)](https://igorkorkin.github.io/research/)
 [![GitHub Pages](https://img.shields.io/github/check-suites/IgorKorkin/research/main?label=GitHub%20Pages&logo=githubactions)](https://github.com/IgorKorkin/research/actions/workflows/pages/pages-build-deployment)
 
-## Эволюция исследований
+## Исследовательская линия
 
 Основная линия исследований — **анализ и усиление границ безопасности операционных систем в условиях активного противодействия атакующего**.
 
