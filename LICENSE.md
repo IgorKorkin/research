@@ -8,4 +8,4 @@ Published papers, conference materials, third-party content, trademarks, logos, 
 
 Source code, where present, is governed by the license of the corresponding project or source file.
 
-CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
