@@ -36,3 +36,4 @@ A systematic treatment of research on OS kernel protection, memory, drivers, and
 | 2026 | [Secure Desktop Is Not Secure: DesktopRanger Against High-Privilege Keyloggers](2026/2026--Conference--Standoff-Talks/README.md) | Talk | StandOff Talks 2026, Moscow, Russia |
 | 2026 | [Weaponizing Intelligence: AI in the Hacker's Arsenal](2026/2026--Paper--eForensics-HAKIN9/README.md) | Article | eForensics, Warsaw, Poland |
 | 2026 | [Beyond Secure Desktop: Abusing and Hardening Windows Desktop Isolation](2026/2026--Conference--OFFZONE/README.md) | Talk | OFFZONE 2026, Moscow, Russia |
+| 2026 | [ARTIFICIAL INTELLIGENCE IN THE ARSENAL OF AN INTRUDER: ANALYSIS OF NEW CHALLENGES TO INFORMATION SECURITY](2026/2026--Paper--Cyberrus_4(75)/README.md) <br> ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В АРСЕНАЛЕ НАРУШИТЕЛЯ: АНАЛИЗ НОВЫХ ВЫЗОВОВ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ | Paper | Voprosy kiberbezopasnosti, Moscow, Russia |
