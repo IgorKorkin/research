@@ -11,6 +11,7 @@
 * **Language:** Russian
 * **ISSN:** 2311-3456
 * [Full journal issue](./korkin_cyberrus_4(74).pdf)
+* [Публикация в РИНЦ](https://elibrary.ru/contents.asp?titleid=50036) [TODO: FIX]
 
 ## How to Cite
 
