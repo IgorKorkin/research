@@ -4,30 +4,17 @@
 
 * **Title:** ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В АРСЕНАЛЕ НАРУШИТЕЛЯ: АНАЛИЗ НОВЫХ ВЫЗОВОВ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ
 * **Authors:** Igor Korkin, Yuriy Tumanov, and Oksana Dokuchaeva
-* **Magazine:** Voprosy kiberbezopasnosti
-* **Volume:** 74
-* **Issue:** 04
+* **Journal:** Voprosy kiberbezopasnosti
+* **Issue:** 4 (74)
 * **Year:** 2026
 * **Pages:** 64–70
 * **Language:** Russian
-* **ISSN:** 2311-3456.
-* [Complete eForensics issue](./korkin_cyberrus_4(75).pdf)
+* **ISSN:** 2311-3456
+* [Full journal issue](./korkin_cyberrus_4(74).pdf)
 
 ## How to Cite
 
 ### ГОСТ
-
-<!-- markdownlint-disable MD033 -->
-<table>
-<tr>
-<td>
-ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В АРСЕНАЛЕ НАРУШИТЕЛЯ: АНАЛИЗ НОВЫХ ВЫЗОВОВ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ / И. Ю. Коркин, Ю. М. Туманов, О. Н. Докучаева // Вопросы кибербезопасности. – 2026. – № 4(74). – С. 64–70. – DOI 10.21681/2311-3456-2026-4-64-70.
-</td>
-</tr>
-</table>
-<!-- markdownlint-enable MD033 -->
-
-### APA 7
 
 <!-- markdownlint-disable MD033 -->
 <table>
