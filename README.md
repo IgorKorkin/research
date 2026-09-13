@@ -30,8 +30,8 @@ A systematic treatment of research on OS kernel protection, memory, drivers, and
 
 | Year | Work | Type | Venue |
 | :---: | --- | :---: | --- |
-| 2025 | [О подходе к защите приложений класса «менеджер паролей» от перехвата клавиатурного ввода](2025/2025--Conference--KIB-MEPhI--Academic/README.md)<br>*An Approach to Protecting Password Manager Applications Against Keystroke Interception* | Conference abstract | KIB-2025, MEPhI, Moscow, Russia |
-| 2026 | [Метод управления правами доступа к объектам рабочего стола Windows для защиты пользовательского ввода](2026/2026--Conference--MITSOBI--Academic/README.md)<br>*A Method for Managing Access Rights to Windows Desktop Objects to Protect User Input* | Conference abstract | MITSOBI-2026, Saint Petersburg, Russia |
+| 2025 | [О подходе к защите приложений класса «менеджер паролей» от перехвата клавиатурного ввода](2025/2025--Conference--KIB-MEPhI--Academic/README.md) | Conference abstract | KIB-2025, MEPhI, Moscow, Russia |
+| 2026 | [Метод управления правами доступа к объектам рабочего стола Windows для защиты пользовательского ввода](2026/2026--Conference--MITSOBI--Academic/README.md) | Conference abstract | MITSOBI-2026, Saint Petersburg, Russia |
 | 2026 | [DesktopRanger Blocks Keystroke Spying: Hardening Windows Desktop Isolation](2026/2026--Conference--Pass-the-SALT/README.md) | Talk | Pass the SALT 2026, Lille, France |
 | 2026 | [Secure Desktop Is Not Secure: DesktopRanger Against High-Privilege Keyloggers](2026/2026--Conference--Standoff-Talks/README.md) | Talk | StandOff Talks 2026, Moscow, Russia |
 | 2026 | [Weaponizing Intelligence: AI in the Hacker's Arsenal](2026/2026--Paper--eForensics-HAKIN9/README.md) | Article | eForensics, Warsaw, Poland |
