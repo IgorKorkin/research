@@ -30,14 +30,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      # Use the official container image instead of fetching release tarballs.
       - name: Check links
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: >-
-            --root-dir "$(pwd)"
-            --verbose
-            --no-progress
-            './**/*.md'
-            './**/*.html'
-            './**/*.rst'
-          fail: true
+        run: |
+          docker run --rm \
+            --volume "${{ github.workspace }}:/workspace:ro" \
+            --workdir /workspace \
+            lycheeverse/lychee:0.24.2 \
+            --root-dir /workspace \
+            --verbose \
+            --no-progress \
+            './**/*.md' './**/*.html' './**/*.rst'
