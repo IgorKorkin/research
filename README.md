@@ -37,4 +37,5 @@ A systematic treatment of research on OS kernel protection, memory, drivers, and
 | 2026 | [Weaponizing Intelligence: AI in the Hacker's Arsenal](2026/2026--Paper--eForensics-HAKIN9/README.md) | Article | eForensics, Warsaw, Poland |
 | 2026 | [Beyond Secure Desktop: Abusing and Hardening Windows Desktop Isolation](2026/2026--Conference--OFFZONE/README.md) | Talk | OFFZONE 2026, Moscow, Russia |
 | 2026 | [Artificial Intelligence in the Arsenal of an Intruder: Analysis of New Challenges to Information Security](2026/2026--Paper--Cyberrus_4(74)/README.md)<br>Искусственный интеллект в арсенале нарушителя: анализ новых вызовов информационной безопасности | Paper | Voprosy kiberbezopasnosti, Moscow, Russia |
+| 2026 | [Техника защиты от установки процедур-перехватчиков посредством ограничения права DESKTOP_HOOKCONTROL](2026/2026--Conference--RI--Academic/README.md) | Conference abstract | RI-2026, Saint Petersburg, Russia |
 | 2026 | [When AI Agents Become Processes: Native Windows Isolation for Autonomous Code](2026/2026--Conference--KCON/README.md) | Talk | KCon 2026, Beijing, China |
