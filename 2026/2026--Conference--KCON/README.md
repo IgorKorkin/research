@@ -4,7 +4,7 @@
 <p align="center">
   <img src="hello.webp" alt="Igor Korkin at 14th KCon Conference 2026" width="400">  
   <br>
-  <img src="kcon.webp" alt="Pass the SALT 2026 logo" width="400">
+  <img src="kcon.webp" alt="KCon 2026 logo" width="400">
 </p>
 <!-- markdownlint-enable MD033 -->
 
@@ -22,7 +22,7 @@
 * [DesktopRanger on GitHub](https://github.com/IgorKorkin/DesktopRanger)
 * Letter-of-Appreciation:
   * [Chinese Original](./KCon-2026-Letter-of-Appreciation-chinese-original.pdf)
-  * [Englishai-translated](./KCon-2026-Letter-of-Appreciation-english.pdf)
+  * [English ai-translated](./KCon-2026-Letter-of-Appreciation-english.pdf)
   * [Russian ai-translated](./KCon-2026-Letter-of-Appreciation-russian.pdf)
 
 ## Abstract
