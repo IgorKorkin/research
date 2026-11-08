@@ -42,5 +42,5 @@ jobs:
             --no-progress \
             --max-retries 5 \
             --retry-wait-time 3 \
-            --accept '100..=103,200..=299,504' \
+            --accept '100..=103,200..=299' \
             './**/*.md' './**/*.html' './**/*.rst'
