@@ -42,5 +42,31 @@ jobs:
             --no-progress \
             --max-retries 5 \
             --retry-wait-time 3 \
+            --exclude '^https://github[.]com/IgorKorkin/(DesktopRanger|MemoryRanger)/?            --accept '100..=103,200..=299' \
+            './**/*.md' './**/*.html' './**/*.rst'
+ \
             --accept '100..=103,200..=299' \
             './**/*.md' './**/*.html' './**/*.rst'
+
+      # GitHub HTML pages sometimes return 504 even for existing repositories.
+      # Check the two repository links using the GitHub API instead.
+      - name: Verify GitHub repository links
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for repo in DesktopRanger MemoryRanger; do
+            echo "Checking IgorKorkin/$repo via GitHub API"
+            success=false
+            for attempt in 1 2 3 4 5; do
+              if gh api "repos/IgorKorkin/$repo" --jq .full_name; then
+                success=true
+                break
+              fi
+              echo "Attempt $attempt failed for $repo"
+              sleep 3
+            done
+            if [ "$success" != true ]; then
+              echo "::error::Cannot verify GitHub repository IgorKorkin/$repo"
+              exit 1
+            fi
+          done
