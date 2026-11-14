@@ -59,6 +59,10 @@ The links below document Chinese-language coverage of KCon 2026 and the talk **�
 * [Sohu / 数世咨询 pre-event preview](https://www.sohu.com/a/1092090943_121204941) — October 24 preview mentions agent process isolation as a conference topic; no direct speaker-name mention verified.
 * [DWCON pre-event preview](https://www.dwcon.cn/post/5060) — describes the conference and agent isolation theme; no direct speaker-name mention verified.
 
+### Additional Eastday coverage — source supplied by author
+
+* [Eastday (东方网), November 3, 2026](https://qiye.eastday.com/n35/20261103/a3b652d285774cf8a4761d78fed64194.html) — “2026人工智能+大会收官：弈智破局——KCon安全论坛推动AI从‘会用’走向‘可信’”. According to the author-provided excerpt, the report directly names the talk *When AI Agents Become Processes: Native Windows Isolation for Autonomous Code*. The page could not be independently fetched during this update; confirm its wording and publisher metadata before reclassifying as independently verified direct coverage.
+
 ### Additional WeChat link — pending verification
 
 * [WeChat article supplied by the author](https://mp.weixin.qq.com/s/v1HXomGjfNaW6egoDnOfaw) — original URL preserved; publisher, date, article title, and whether Igor Korkin is directly mentioned **not independently verified** (WeChat page could not be opened by the available reader on 2026-11-14). Review the page before classifying it as direct press coverage or archiving a PDF.
