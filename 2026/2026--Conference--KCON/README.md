@@ -41,7 +41,7 @@ Together, these mechanisms combine PSEC-based process isolation with Windows Des
 
 ## Chinese Media Coverage (2026)
 
-The links below document Chinese-language coverage of KCon 2026 and the talk **“When AI Agents Become Processes: Native Windows Isolation for Autonomous Code.”** Verified on November 14, 2026. These are **media mentions**, not peer-reviewed publications. Several outlets reproduce closely related conference reporting; separate URLs should not be interpreted as independent reporting.
+The sources below document reported Chinese-language coverage of KCon 2026 and the talk **“When AI Agents Become Processes: Native Windows Isolation for Autonomous Code.”** Reviewed on November 14, 2026, the entries distinguish directly cited media mentions from official schedules, contextual reporting, and author-supplied leads awaiting independent verification. These are **media mentions**, not peer-reviewed publications. Several outlets reproduce closely related conference reporting; separate URLs should not be interpreted as independent reporting.
 
 ### Direct mentions of the speaker and talk
 
