@@ -63,10 +63,12 @@ The links below document Chinese-language coverage of KCon 2026 and the talk **�
 
 * [Eastday (东方网), November 3, 2026](https://qiye.eastday.com/n35/20261103/a3b652d285774cf8a4761d78fed64194.html) — “2026人工智能+大会收官：弈智破局——KCon安全论坛推动AI从‘会用’走向‘可信’”. According to the author-provided excerpt, the report directly names the talk *When AI Agents Become Processes: Native Windows Isolation for Autonomous Code*. The page could not be independently fetched during this update; the direct mention is supported by the author's supplied search excerpt, not independent page inspection.
 
-### Additional conference coverage — pending verification
+### Additional conference schedule and previews
 
-* Lexotech schedule and preview — reported to contain the speaker and talk title, but the supplied URLs are truncated. **Do not add a guessed link**; full canonical URLs and page contents require verification.
-* CSDN thematic recap — excluded from the direct-mention list because a simultaneous mention of the speaker name and talk title was not established.
+* **Lexotech conference schedule:** the author-supplied search excerpt explicitly shows **Igor Korkin** and the full talk title, and identifies article `did=2c4c861a901d1766b120629f88ec8d03`. This is a **speaker-and-talk schedule mention**, not a post-event news report. The provided URL ends in an ellipsis, so a complete canonical URL and direct page inspection are still outstanding; no guessed URL is published.
+* **Lexotech “Top 10 topics” preview:** article `did=a7fee50bb8f3b822cfceb2ee292d9dd6` is identified by the author-supplied excerpt. The talk title is partially visible; a direct speaker-name mention is not confirmed. The full URL is not supplied.
+* [KCon WeChat topic preview (1)](https://mp.weixin.qq.com/s/kiF1tEjJ-VxR-XXPNw4hKw) — topic-only reference to Windows GUI isolation for AI agents; a direct speaker-name mention is not confirmed.
+* CSDN / Devpress thematic recaps — excluded from the direct-mention list because a simultaneous mention of the speaker name and talk title was not established.
 
 ### Additional WeChat link — pending verification
 
@@ -74,7 +76,7 @@ The links below document Chinese-language coverage of KCon 2026 and the talk **�
 
 ### Preservation
 
-PDF copies are **not yet archived**. For each article, save a browser-generated PDF preserving the Chinese text, images, publisher, publication date and URL. Suggested path: `media-archive/` (create only when snapshots are available). Keep a source-to-PDF manifest with original URL, capture date and SHA-256; do not replace live links. Archive only as permitted by publisher terms and applicable copyright rules.
+**First PDF capture priority:** Eastday, Shishifenxi, and the official KCon speaker agenda. Jiemian, Sina and Ifeng have explicit URLs listed above, but their article contents and current accessibility should be rechecked before promising PDF snapshots. Lexotech needs a complete canonical URL before PDF capture. PDF copies are **not yet archived**. For each article, save a browser-generated PDF preserving the Chinese text, images, publisher, publication date and URL. Suggested path: `media-archive/` (create only when snapshots are available). Keep a source-to-PDF manifest with original URL, capture date and SHA-256; do not replace live links. Archive only as permitted by publisher terms and applicable copyright rules.
 
 ## Official Posts
 
