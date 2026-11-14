@@ -76,7 +76,7 @@ The links below document Chinese-language coverage of KCon 2026 and the talk **â
 
 ### Preservation
 
-PDF links can be added to the **PDF snapshot** column above or after the relevant source as **PDF: [Snapshot](relative/path.pdf)**. Until files are available, **Pending** is plain text (not a broken link).
+PDF links can be added to the **PDF snapshot** column above or after the relevant source as **PDF: Pending** (replace with a link to the PDF once the file exists). Until files are available, **Pending** is plain text (not a broken link).
 
 **First PDF capture priority:** Eastday, Shishifenxi, and the official KCon speaker agenda. Jiemian, Sina and Ifeng have explicit URLs listed above, but their article contents and current accessibility should be rechecked before promising PDF snapshots. Lexotech needs a complete canonical URL before PDF capture. PDF copies are **not yet archived**. For each article, save a browser-generated PDF preserving the Chinese text, images, publisher, publication date and URL. Suggested path: `media-archive/` (create only when snapshots are available). Keep a source-to-PDF manifest with original URL, capture date and SHA-256; do not replace live links. Archive only as permitted by publisher terms and applicable copyright rules.
 
