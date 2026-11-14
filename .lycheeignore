@@ -3,3 +3,5 @@
 ^https://storage\.ptsecurity\.com/
 ^https://vkvideo\.ru/
 ^data:image/
+# Eastday blocks automated link checkers with HTTP 403; preserve the article URL.
+^https://qiye\.eastday\.com/n35/20261103/a3b652d285774cf8a4761d78fed64194\.html$
