@@ -59,6 +59,10 @@ The links below document Chinese-language coverage of KCon 2026 and the talk **�
 - [Sohu / 数世咨询 pre-event preview](https://www.sohu.com/a/1092090943_121204941) — October 24 preview mentions agent process isolation as a conference topic; no direct speaker-name mention verified.
 - [DWCON pre-event preview](https://www.dwcon.cn/post/5060) — describes the conference and agent isolation theme; no direct speaker-name mention verified.
 
+### Additional WeChat link — pending verification
+
+- [WeChat article supplied by the author](https://mp.weixin.qq.com/s/v1HXomGjfNaW6egoDnOfaw) — original URL preserved; publisher, date, article title, and whether Igor Korkin is directly mentioned **not independently verified** (WeChat page could not be opened by the available reader on 2026-11-14). Review the page before classifying it as direct press coverage or archiving a PDF.
+
 ### Preservation
 
 PDF copies are **not yet archived**. For each article, save a browser-generated PDF preserving the Chinese text, images, publisher, publication date and URL. Suggested path: `media-archive/` (create only when snapshots are available). Keep a source-to-PDF manifest with original URL, capture date and SHA-256; do not replace live links. Archive only as permitted by publisher terms and applicable copyright rules.
