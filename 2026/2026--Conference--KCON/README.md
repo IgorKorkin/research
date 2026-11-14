@@ -54,14 +54,14 @@ The links below document Chinese-language coverage of KCon 2026 and the talk **�
 
 ### Official and contextual coverage
 
-- [KCon 2026 official agenda](https://kcon.knownsec.com/) — lists Igor Korkin and the complete talk title at **09:30–09:55**, November 1, 2026.
-- [ZONE.CI / KCon organizers' post-event recap](https://xyz.zone.ci/secarticles/wx/647326.html) — discusses native endpoint/Agent isolation among the conference topics, without a confirmed direct speaker-name mention in the inspected text.
-- [Sohu / 数世咨询 pre-event preview](https://www.sohu.com/a/1092090943_121204941) — October 24 preview mentions agent process isolation as a conference topic; no direct speaker-name mention verified.
-- [DWCON pre-event preview](https://www.dwcon.cn/post/5060) — describes the conference and agent isolation theme; no direct speaker-name mention verified.
+* [KCon 2026 official agenda](https://kcon.knownsec.com/) — lists Igor Korkin and the complete talk title at **09:30–09:55**, November 1, 2026.
+* [ZONE.CI / KCon organizers' post-event recap](https://xyz.zone.ci/secarticles/wx/647326.html) — discusses native endpoint/Agent isolation among the conference topics, without a confirmed direct speaker-name mention in the inspected text.
+* [Sohu / 数世咨询 pre-event preview](https://www.sohu.com/a/1092090943_121204941) — October 24 preview mentions agent process isolation as a conference topic; no direct speaker-name mention verified.
+* [DWCON pre-event preview](https://www.dwcon.cn/post/5060) — describes the conference and agent isolation theme; no direct speaker-name mention verified.
 
 ### Additional WeChat link — pending verification
 
-- [WeChat article supplied by the author](https://mp.weixin.qq.com/s/v1HXomGjfNaW6egoDnOfaw) — original URL preserved; publisher, date, article title, and whether Igor Korkin is directly mentioned **not independently verified** (WeChat page could not be opened by the available reader on 2026-11-14). Review the page before classifying it as direct press coverage or archiving a PDF.
+* [WeChat article supplied by the author](https://mp.weixin.qq.com/s/v1HXomGjfNaW6egoDnOfaw) — original URL preserved; publisher, date, article title, and whether Igor Korkin is directly mentioned **not independently verified** (WeChat page could not be opened by the available reader on 2026-11-14). Review the page before classifying it as direct press coverage or archiving a PDF.
 
 ### Preservation
 
